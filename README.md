@@ -27,6 +27,7 @@ You can install these dependencies using pip:
 
 ```bash
 pip install pandas matplotlib scikit-learn
+```
 
 ```
 git clone https://github.com/yourusername/linear-regression-example.git
